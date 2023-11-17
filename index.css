@@ -1,0 +1,87 @@
+.main{
+    background-color: red;
+    height: 150px;
+    width: 800px;
+    border-radius: 13px;
+    margin: auto;
+    margin-top: 13%;
+    border: 1px solid black;
+}
+.box1{
+    border: 2px solid black;
+    height: 60px;
+    width:200px;
+    margin-left:150px ;
+    margin-top: 20px;
+    background-color: black;
+}
+.box2{
+    border: 2px solid black;
+    height: 60px;
+    width:200px;
+    background-color: black;
+    float: right;
+    margin-top: -60px;
+    margin-right: 150px;
+}
+.circle1{
+    border: 2px solid black;
+    height: 60px;
+    width:90px;
+    margin-left:150px ;
+    margin-top: 35px;
+    background-color: black;
+    border-radius: 50%;
+
+}
+.circle2{
+    border: 2px solid black;
+    height: 60px;
+    width:90px;
+    background-color: black;
+    float: right;
+    margin-top: -60px;
+    margin-right: 150px;
+    border-radius:50% ;
+}
+/* .stand{
+    height: 150px;
+    width: 20px;
+    border: 2px solid brown;
+    margin-top:-169px;
+    background-color: brown;
+    float:inline-start;
+    margin-left: 180px;
+}
+.circle3{
+    border-radius:13px;
+}    */
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    5%;
+    height: 70px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: black;
+    color: azure;
+    font-size: 15px;
+    margin-top: -20px;
+    text-align: center;
+
+}
